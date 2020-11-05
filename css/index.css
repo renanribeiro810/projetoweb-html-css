@@ -1,0 +1,115 @@
+@media (max-width: 930px) 
+{
+ .servicos img {
+    width: 400px;}
+
+}
+
+#seta img {
+    width: 100px;
+    border: none;
+    margin-top: 50px;
+    display: block;
+
+}
+
+
+#pol-central {
+    margin-top: 100px;
+}
+
+.servicos img {
+    width: 800px;
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
+
+}
+
+.primeira-tela {
+    margin-top: 0;
+}
+
+.primeira-tela img {
+    margin-top: 0;
+    position: relative;
+    transition: height 0.5s;
+    overflow: hidden;
+}
+
+
+.primeira-tela img:hover {
+    width: 240px;
+}
+
+.lavagem-seco {
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.lavagem-seco img {
+    margin-left: 15px;
+}
+
+.lavagem-seco .nominal {
+    margin-right: 3px;
+}
+
+.limpeza-motor {
+    margin-bottom: 150px;
+}
+
+.limpeza-motor img {
+    margin-left: 10px;
+}
+
+
+.limpeza-banco img {
+    margin-left: 15px;
+    margin-bottom: 170px;
+}
+
+.polimento {
+    margin-bottom: 120px;
+    margin-top: 100px;
+}
+
+.polimento img {
+    margin-bottom: 140px;
+}
+
+.nominal {
+    font-size: 3em;
+    margin-bottom: 25px;
+    text-align: center;
+   
+}
+
+.descricao {
+    display: flex;
+    text-align: center;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 90px;
+    line-height: 25px;
+    font-size: 1.5em;
+
+}
+
+img {
+    width: 230px;
+    margin: 25px;
+    padding: 15px;
+    border-radius: 700px;
+    border: 4px solid #641220;
+
+}
+
+h1 {
+    font-size: 3em;
+    line-height: 40px;
+}
+
